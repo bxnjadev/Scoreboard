@@ -1,0 +1,9 @@
+Join:
+  Title: "&e&lCOMUGAMERS"
+  Scoreboard:
+    - "&d"
+    - "&eWorld &f%world_name%"
+    - "&r"
+    - "&eGamemode &f%gamemode%"
+    - "&d"
+    - "www.comugamers.com"

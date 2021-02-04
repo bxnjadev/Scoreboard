@@ -1,0 +1,4 @@
+name: Scoreboard
+version: ${project.version}
+main: com.comugamers.scoreboard.ScoreboardBukkit
+api-version: 1.16
